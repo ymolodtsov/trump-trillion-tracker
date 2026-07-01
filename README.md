@@ -12,6 +12,7 @@ Timeline and favor-ledger entries describe reported conflicts of interest, not a
 
 ## Sources
 
+- Reuters — Trump reports $1.4B+ crypto income in 2025 disclosure: https://www.reuters.com/world/us/trump-reports-more-than-14-billion-income-crypto-ventures-2026-06-30/
 - Forbes — Trump 2026 net worth: https://www.gobankingrates.com/net-worth/politicians/trump-net-worth-2026-what-he-owns-what-he-owes/
 - WSJ via Finviz — WLFI $1.4B in 16 months: https://finviz.com/news/304187/trump-family-affiliated-world-liberty-financial-generated-14-billion-in-16-months
 - CoinDesk — $TRUMP $320M in fees: https://www.coindesk.com/business/2025/05/09/trump-family-profited-usd320m-on-memecoin-despite-87-decline-since-day-one
